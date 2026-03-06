@@ -16,6 +16,18 @@ async function main() {
 
     const initialTasks = [
         {
+            title: 'Setup Project',
+            description: 'Initial project structure with Express and Quasar',
+        },
+        {
+            title: 'Database Migration',
+            description: 'Connect to Supabase and push Prisma schema',
+        },
+        {
+            title: 'Cloud Deployment',
+            description: 'Deploy Backend to Render and Frontend to Netlify',
+        },
+        {
             title: 'คณาธิป ศะศิบุตร์',
             description: 'รหัสนักศึกษา: 6604101310',
         },
