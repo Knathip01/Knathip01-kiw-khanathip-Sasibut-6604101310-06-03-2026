@@ -44,6 +44,11 @@ app.get('/api/demo', (req, res) => {
   });
 });
 
+// Health Check API
+app.get('/api/health', (_req, res) => {
+  res.json({ ok: true });
+});
+
 // health check root
 app.get('/', (_req, res) => {
   res.json({
