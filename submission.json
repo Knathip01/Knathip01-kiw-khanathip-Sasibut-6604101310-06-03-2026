@@ -1,0 +1,11 @@
+{
+  "student_id": "6604101310",
+  "name": "คณาธิป ศะศิบุตร์",
+  "github_repo": "https://github.com/Knathip01/Knathip01-kiw-khanathip-Sasibut-6604101310-06-03-2026",
+  "backend_base_url": "https://knathip01-kiw-khanathip-sasibut.onrender.com",
+  "frontend_url": "https://midterm6604101310.netlify.app",
+  "api": {
+    "health": "https://knathip01-kiw-khanathip-sasibut.onrender.com/api/health",
+    "tasks": "https://knathip01-kiw-khanathip-sasibut.onrender.com/api/tasks"
+  }
+}
